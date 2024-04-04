@@ -27,7 +27,8 @@
       ```
       python app.py
       ```
-      or directly run the file
+      or directly run the file.
+      
     - You should see output similar to:
       ```
       * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
