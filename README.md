@@ -1,6 +1,6 @@
-# Diabetes Prediction
-
-# Running the App
+# Diabetes Prediction 
+- Utilizes 8 ML models - Random Forest, KNN, SVC, Logistic Regression, Naive Bayes, Decision Tree, Gradient Boosting, XGBoost
+## Running the App
 
 ## Prerequisites
 - Python installed on your system
