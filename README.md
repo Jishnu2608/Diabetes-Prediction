@@ -7,9 +7,11 @@
 
 ## Steps
 
-1. **Create the App**
-    - Create a new directory for your project.
-    - Inside the directory, create a Python file (e.g., `app.py`) for your Flask application.
+1. **Clone the project**
+    - Run the following command to clone the project
+      ```
+      git clone https://github.com/Jishnu2608/Diabetes-Prediction.git
+      cd Diabetes-Prediction
 
 2. **Install Flask and other libraries**
     - Open your terminal or command prompt.
