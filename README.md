@@ -15,7 +15,6 @@
 
 2. **Install Flask and other libraries**
     - Open your terminal or command prompt.
-    - Navigate to the project directory.
     - Run the following command to install Flask:
       ```
       pip install Flask
@@ -23,11 +22,12 @@
       pip install numpy
       ```
 3. **Run the App**
-    - In the terminal, navigate to the directory where your `app.py` file is located.
+    - Locate the `app.py` file.
     - Run the following command to start the Flask development server:
       ```
       python app.py
       ```
+      or directly run the file
     - You should see output similar to:
       ```
       * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
